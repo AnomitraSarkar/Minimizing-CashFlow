@@ -89,7 +89,7 @@ input {
   width: 250px;
   top: 0;
   right: 10%;
-  border: 2px solid red;
+  border: 2px solid rgb(43, 4, 56);
 }
 
 .nodemanage{
